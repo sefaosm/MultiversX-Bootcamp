@@ -1,3 +1,9 @@
+// bootcamp-tasks/src/bin/concatenate-strings.rs
+// # Concatenate Strings
+// This program concatenates two strings and prints the result.
+//
+// Author: Sefa Osmanoğlu
+
 fn concatenate_strings(str1: &str, str2: &str) -> String {
     let mut result = String::new();
     result.push_str(str1);
