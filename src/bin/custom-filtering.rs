@@ -1,3 +1,9 @@
+// bootcamp-tasks/src/bin/custom-filtering.rs
+// # Custom Filtering
+// This program demonstrates custom filtering using a custom filter function.
+// 
+// Author: Sefa Osmanoğlu
+
 // Using rand module for generating a vector with random numbers
 use rand::Rng;
 
